@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sathvik 👋
 
-<!--
-**sathvikreddy369/sathvikreddy369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in software development, AI, and building practical applications.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on AI-powered applications and full-stack projects
+- 🌱 Exploring RAG, backend development, and better software engineering practices
+- 💻 Interested in Java, Python, JavaScript, SQL, and web development
+- 🤝 Open to learning, collaboration, and interesting projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+Java • Python • JavaScript • SQL • React • Node.js • Next.js • PostgreSQL • MongoDB
+
+### Featured projects
+Check out my pinned repositories below!
